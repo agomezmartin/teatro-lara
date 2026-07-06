@@ -7,23 +7,23 @@ version: 2
 
 # Personal info
 name: Alberto Gómez-Martín
-title: Administrative and Operations Assistant
+title: 
 email: agomezmartinpro@gmail.com
-teléfono: +34 665042685
-website: https://agomezmartin.github.io/do-co/
+mobile: +34 665042685
+website: 
 
 # Dark Mode (true/false/never)
 darkmode: never
 
 # Social links
 # twitter_username: facespics
-github_username:  agomezmartin
+# github_username:  agomezmartin
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jameswgrant
-linkedin_username: albertogomezmartin
+# linkedin_username: albertogomezmartin
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -46,274 +46,174 @@ linkedin_username: albertogomezmartin
 # google_analytics: "UA-00000000-0"
 
 # About Section
-about_title: About Me
+about_title: Sobre mi
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-    Professional with a hybrid background combining hands-on premium catering operations experience in London and strong technical capabilities in data processing and system configuration.
+    Profesional con perfil híbrido en tecnología, comunicación y coordinación de proyectos en <mark>entornos internacionales</mark>.
 
-    I spent over five years working in high-volume, high-standard catering environments, including iconic cultural institutions in London, where I developed a strong understanding of operational execution, service logistics, timing, and coordination in demanding environments.
+    A lo largo de mi trayectoria he trabajado con <mark>equipos multidisciplinares</mark> facilitando la adaptación de productos digitales a distintos <mark>contextos culturales</mark>, contribuyendo a mejorar el acceso a la información a nivel global.
 
-    Alongside this operational experience, I have built solid expertise in data handling, workflow optimization, and system configuration within technical environments. This has strengthened my ability to manage structured operational data with precision, consistency, and attention to detail.
+    Mi experiencia combina ingeniería de software, análisis técnico y gestión de proyectos con una fuerte orientación a la colaboración, la comunicación y la resolución de problemas complejos.
 
-    I am particularly motivated to transition into aviation catering operations, where I can contribute to flight planning support, menu configuration, load planning, and cross-department coordination, combining operational experience with analytical capabilities.
+    En los últimos años he orientado mi desarrollo hacia <mark>proyectos con impacto social</mark>, manteniendo un interés activo en iniciativas relacionadas con sostenibilidad, cooperación y participación ciudadana.
 
-    Fluent in English and Spanish, with experience working in international and fast-paced environments.
 content:
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
-#    EXPERIENCE
+#    EXPERIENCIA
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Experiencia # Título de la sección
+    layout: list # Tipo de contenido (lista/texto)
     content:
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
       - layout: left
-        title: Replant
-      #    link: https://www.acolad.com/
-      #    link_text: acolad.com
-        sub_title: Founder
-        caption: January 2025 - In progress</br><mark>Madrid, Spain</mark> 
-      #  quote: >
+        title: Desarrollo profesional independiente
+        sub_title: Formación y actualización de competencias
+        caption: 2025 - Actualidad</br><mark>España</mark>
+        description: | 
+          Periodo dedicado al desarrollo profesional continuo y a la exploración de aplicaciones tecnológicas con impacto social.
 
-        description: | # this will include new lines to allow paragraphs
-
-          Founded and managed an online business specialising in indoor plants, overseeing end-to-end operations.
-
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+          - Desarrollo de proyectos propios (GitHub)
+          - Formación en programación y análisis de datos
+          - Interés en el uso de la tecnología como herramienta para la participación y la accesibilidad
 
       - layout: left
-        title: Inforyde
+        title: Invesyde
         link: https://inforyde.com/
         link_text: inforyde.com
-        sub_title: Software Engineer
-        caption: January 2024 - December 2024</br><mark>Madrid, Spain</mark> 
-      #  quote: >
+        sub_title: Ingeniero de Software Junior
+        caption: Enero 2024 - 2025</br><mark>Madrid, España</mark> 
 
-        description: | # this will include new lines to allow paragraphs
+        description: |
+          Desarrollo de soluciones de software en el sector energético, contribuyendo a la mejora de herramientas orientadas a la eficiencia y gestión.
 
-          Inforyde provides advanced software solutions to the energy sector, including optimization and automation tools based in <mark>Excel</mark> to support energy management and efficiency.
+          Trabajo en colaboración con distintos perfiles técnicos para definir soluciones adaptadas a necesidades reales.
 
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+          - Desarrollo en C# y VBA
+          - Análisis de procesos y mejora continua
+          - Trabajo colaborativo con equipos técnicos
+          - Uso de Git, GitHub y Jira
 
       - layout: left
         title: ACOLAD
         link: https://www.acolad.com/
         link_text: acolad.com
-        sub_title: Technical Services Lead | Localization Engineer
-        caption: September 2018 - September 2021</br><mark>Madrid, Spain</mark> 
-      #  quote: >
+        sub_title: Líder de Servicios Técnicos | Ingeniero de Localización
+        caption: Septiembre 2018 - Septiembre 2021</br><mark>Madrid, España</mark> 
 
-        description: | # this will include new lines to allow paragraphs
-          
-          As a Localization Engineer at Acolad, I was responsible for the technical aspects of localization and translation projects, ensuring seamless adaptation of content for global markets. Key responsibilities included:
+        description: |
+          Coordinación técnica de proyectos en entornos internacionales, facilitando la comunicación entre equipos técnicos, lingüísticos y de gestión.
 
-          - <mark>Software Localization</mark>
+          - Gestión de proyectos con múltiples stakeholders
+          - Coordinación de equipos y proveedores
+          - Análisis técnico de productos digitales
 
-          - <mark>e-Learning Localization</mark>
+          Contribución a la adaptación de contenidos a diferentes contextos culturales y lingüísticos, favoreciendo una comunicación más accesible e inclusiva.
 
-          - <mark>XML and DITA</mark>
-
-          - <mark>Parsing and Regexes</mark>
-
-          - <mark>Localization Testing and QA</mark>
-
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+          Experiencia en documentación, formación interna y transferencia de conocimiento.
 
       - layout: left
         title: Transperfect
         link: https://www.transperfect.com/
         link_text: transperfect.com
-        sub_title: Localization Engineer
-        caption: Madrid, Spain
-        caption: May 2015 - August 2018</br><mark>Madrid, and Barcelona</mark>, Spain 
-#        quote: >
+        sub_title: Ingeniero de Localización
+        caption: Mayo 2015 - Agosto 2018</br><mark>Madrid y Barcelona</mark>, España 
 
-        description: | # this will include new lines to allow paragraphs
+        description: |
+          Participación en proyectos internacionales de localización de software.
 
-          As part of the localization Engineering team, we were responsible for receiving clients' products, assessing their suitability for localization processing and putting together quotes.
-          <mark>Segmentation</mark> and <mark>parse development</mark> were core parts of our everyday load.
+          - Evaluación técnica y preparación de contenidos
+          - Automatización de procesos
+          - Trabajo con equipos multidisciplinares
 
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-      - layout: left
-        title: 
-        link:
-        link_text: 
-        sub_title: 
-        caption: 
-#        quote: >
-
-        description: | # this will include new lines to allow paragraphs
-            
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+          Contribución a la accesibilidad de productos digitales en distintos idiomas y contextos culturales.
 
       - layout: left
         title: GAMESYS LIMITED
         link: https://www.gamesysgroup.com/
         link_text: gamesysgroup.com
-        sub_title: Translator and localizer
-        caption: October 2014 - May 2015</br><mark>London, United Kingdon</mark> 
-#        quote: >
+        sub_title: Traductor y localizador
+        caption: Abril 2013 - Octubre 2014</br><mark>Londres, Reino Unido</mark> 
 
-        description: | # this will include new lines to allow paragraphs
-            During my time at Gamesys, I was involved in the <mark>translation and localization</mark> of their <mark>HotShot Trader</mark> online video game project. The online video game was based in JavaScript and internationalized by extracting strings into JSON formatted files.
-            This was an incredible opportunity to get my first professional contact with real software projects as I was just coming out of university.
+        description: |
+            Participación en la localización de un producto digital en entorno internacional.
 
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+            Primer contacto con proyectos tecnológicos reales, trabajando en equipo y adaptando contenidos a diferentes mercados.
 
       - layout: left
-        title: DO&CO
-        link: https://www.doco.com/
-        link_text: doco.com
-        sub_title: Waiter / Catering Assistant
-        caption: November 2007 - May 2011</br><mark>London, United Kingdon</mark> 
-#        quote: >
+        title: The London Oratory School
+        link: https://www.london-oratory.org/
+        link_text: london-oratory.org
+        sub_title: Asistente de Lengua Española
+        caption: Octubre 2014 - Mayo 2015</br><mark>Londres, Reino Unido</mark> 
 
-        description: | # this will include new lines to allow paragraphs
-          - Supported the execution of luxury catering services in fast-paced, high-demand environments, ensuring smooth service delivery and attention to guest experience.
-          - Assisted in the setup and breakdown of event spaces, ensuring accurate preparation according to operational and client specifications.
-          - Delivered food and beverage service to high standards, including VIP-style events, maintaining professionalism and consistency under pressure.
-          - Worked closely with kitchen, logistics, and front-of-house teams to ensure coordinated service flow and timely execution.
-          - Maintained exceptional standards of personal presentation, teamwork, and adaptability in dynamic operational environments.
-          - Developed strong awareness of service timing, spatial coordination, and operational discipline in high-volume catering operations.
+        description: |
+            Apoyo a estudiantes en el desarrollo de habilidades de comunicación oral.
+
+            - Adaptación a distintos perfiles
+            - Comunicación empática
+            - Dinamización de grupos
+
+      - layout: left
+        title: Lady Margaret School
+        link: https://ladymargaret.lbhf.sch.uk/
+        link_text: ladymargaret.lbhf.sch.uk<br/>
+        sub_title: Asistente de Lengua Española
+        caption: Octubre 2014 - Mayo 2015</br><mark>Londres, Reino Unido</mark> 
+
+        description: |
+            Experiencia en formación y acompañamiento educativo en entornos diversos.
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
-#    EDUCATION
+#    EDUCACIÓN
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Educación # Título de la sección
+    layout: list # Tipo de contenido (lista/texto)
     content:
-    
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
       - layout: left
         title: Imperial College London
-        caption: October 2012 - September 2013</br><mark>London, United Kingdon</mark> 
-        sub_title: MSc Scientific, Medical and Technical Translation with Translation Technology
-#        quote: >
-#          Imperial College London is a world-class university with a mission to benefit society through excellence in science, engineering, medicine and business.
+        caption: Octubre 2012 - Septiembre 2013</br><mark>Londres, Reino Unido</mark> 
+        sub_title: MSc Traducción Científica, Médica y Técnica con Tecnología de la Traducción
         description: | # this will include new lines to allow paragraphs
-          During my time at Imperial College London (ICL) I acquired some of my field-specific technical skills regarding <mark>translation technology</mark>.
+          Durante mi tiempo en Imperial College London (ICL) adquirí habilidades técnicas específicas de mi campo relacionadas con <mark>tecnología de la traducción</mark>.
           
-          Project Management, Computer-Assisted-Translation tools (CAT), or Machine Translation were some of the subjects that connected most strongly with the professional world.
-
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+          Gestión de proyectos, herramientas de traducción asistida por ordenador (CAT) o Traducción Automática fueron algunos de los temas que se conectaron más estrechamente con el mundo profesional.
 
       - layout: left
-        title: Imperial College London
-        caption: April 2013 - July 2013</br><mark>London, United Kingdon</mark> 
-        sub_title: Certificate in Software Localization
-#         quote: >
-#           Imperial College London is a world-class university with a mission to benefit society through excellence in science, engineering, medicine and business.
+        title: University of Westminster
+        caption: Septiembre 2009 - Mayo 2012</br><mark>Londres, Reino Unido</mark> 
+        sub_title: Grado en Traducción (Español-Inglés)
         description: | # this will include new lines to allow paragraphs
-          This all-encompasing <mark>Software Localization</mark> certificate provided specific technical insights into the processes involved in identifying and handling text to be extracted and localized from software products.
+          El Grado en Traducción de la Universidad de Westminster me permitió desarrollar no solo habilidades de traducción directa e indirecta, sino también estudios sobre conciencia intercultural.
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
-      - layout: left
-        title: University of Westeminster
-        caption: September 2009 - May 2012</br><mark>London, United Kingdon</mark> 
-        sub_title: BA in Translation (Spanish-English)
-#        quote: >
-
-        description: | # this will include new lines to allow paragraphs
-          Carrying out a BA in Translation at University of Westminster allowed to develop not only direct and indirect translation skills, but also intercultural awareness studies.
-
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-      - layout: left
-        title: CRN
-        caption: September 2023 - November 2023</br><mark>Madrid, Spain</mark> 
-        sub_title: Java Proffesional Standard Edition (ORACLE Certificate)
-#        quote: >
-
-        description: | # this will include new lines to allow paragraphs
-          Java Standard Edition: the course covers J2SE's API and includes a 10-hours long preparation for the <mark>Oracle Certified Professional, Java SE Programme</mark>. 
-
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-      - layout: left
-        title: Centro de Formación en Tecnologías de la información y las comunicaciones de Madrid
-        caption: May 2023 - July 2023</br><mark>Madrid, Spain</mark> 
-        sub_title: Data development and visualization with Python (Django and Pandas)
-#        quote: >
-
-        description: | # this will include new lines to allow paragraphs
-          This <mark>intensive course</mark> dug into the world of data visualization using Python with a focus on <mark>Django</mark> framework.
-
-          - Django
-          - Python
-          - SQL
-          - Pandas
-
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-      - layout: left
-        title: Core Networks School
-        caption: September 2022 - November 2022</br><mark>Madrid, Spain</mark> 
-        sub_title: JAVA Enterprise Edition
-#        quote: >
-
-        description: | # this will include new lines to allow paragraphs
-          Using JAVA Enterprise Edition to develop web-based applications.
-
-          - Java
-          - SQL
-          - Angular
-          - Services
-
-
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-#    SOFT SKILLS
-
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-  - title: Soft skills
+  - title: Perfil y Competencias Clave
     layout: text
-    content: | # this will include new lines to allow paragraphs
+    content: |
+      - Experiencia en entornos internacionales y multiculturales
+      - Coordinación de equipos y proyectos
+      - Comunicación efectiva y mediación
+      - Capacidad de aprendizaje y adaptación
+      - Sensibilidad hacia la accesibilidad, diversidad y cooperación
 
-      - Analytic mind
-      - Agile project management, and adaptiveness to change
-      - Assertive communication
-      - Motivation for learning
-      - Mentoring and coaching
-      - Customer-first approach
-      - Accountable
-
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-#    SOFTWARE TECHNOLOGY
-
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-  - title: Software and Technology
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-
-      <img src="./images/excel.png" width="10%" height="10%" style="margin-bottom:5%; margin-right:7%">
-      <img src="./images/excel_macro.png" width="10%" height="10%" style="margin-bottom:5%; margin-right:7%">
-      <img src="./images/outlook.svg" width="20%" height="20%" style="margin-bottom:5%; margin-right:5%">
-      <img src="./images/word.png" width="10%" height="10%" style="margin-bottom:5%; margin-right:7%">
-      <img src="./images/jira.png" width="20%" height="10%" style="margin-bottom:5%">
-      <br>
+      Interés en contribuir a iniciativas con impacto social, medioambiental y participación ciudadana.
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
 # Footer
 
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
 footer_show_references: false
-# references_title: References on request (Override references text)
+# references_title: Referencias bajo petición
 
 # Build settings
 remote_theme: sproogen/resume-theme
