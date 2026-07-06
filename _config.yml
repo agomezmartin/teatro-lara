@@ -9,7 +9,7 @@ version: 2
 name: Alberto Gómez-Martín
 title: 
 email: agomezmartinpro@gmail.com
-mobile: +34 665042685
+phone: +34 665042685
 website: 
 
 # Dark Mode (true/false/never)
@@ -53,9 +53,7 @@ about_content: | # this will include new lines to allow paragraphs
 
     A lo largo de mi trayectoria he trabajado con <mark>equipos multidisciplinares</mark> facilitando la adaptación de productos digitales a distintos <mark>contextos culturales</mark>, contribuyendo a mejorar el acceso a la información a nivel global.
 
-    Mi experiencia combina ingeniería de software, análisis técnico y gestión de proyectos con una fuerte orientación a la colaboración, la comunicación y la resolución de problemas complejos.
-
-    En los últimos años he orientado mi desarrollo hacia <mark>proyectos con impacto social</mark>, manteniendo un interés activo en iniciativas relacionadas con sostenibilidad, cooperación y participación ciudadana.
+    Actualmente estoy reorientando mi carrera profesional a roles en el <mark>sector de cultura</mark> y <mark>atención al cliente</mark>. Tras vivir en Londres durante 11 años, ciudad en la que realicé mis estudios académicos, puedo comunicarme en inglés de forma eficaz.
 
 content:
 
@@ -86,7 +84,7 @@ content:
         title: Invesyde
         link: https://inforyde.com/
         link_text: inforyde.com
-        sub_title: Ingeniero de Software Junior
+        sub_title: Ingeniero de Software
         caption: Enero 2024 - 2025</br><mark>Madrid, España</mark> 
 
         description: |
@@ -95,7 +93,6 @@ content:
           Trabajo en colaboración con distintos perfiles técnicos para definir soluciones adaptadas a necesidades reales.
 
           - Desarrollo en C# y VBA
-          - Análisis de procesos y mejora continua
           - Trabajo colaborativo con equipos técnicos
           - Uso de Git, GitHub y Jira
 
@@ -134,40 +131,25 @@ content:
           Contribución a la accesibilidad de productos digitales en distintos idiomas y contextos culturales.
 
       - layout: left
-        title: GAMESYS LIMITED
-        link: https://www.gamesysgroup.com/
-        link_text: gamesysgroup.com
-        sub_title: Traductor y localizador
-        caption: Abril 2013 - Octubre 2014</br><mark>Londres, Reino Unido</mark> 
+        title: Aldwhych Theatre
+        link: https://nederlander.co.uk/aldwych/
+        link_text: nederlander.co.uk/aldwych
+        sub_title: Staff member
+        caption: Septiembre 2010 - Octubre 2012</br><mark>Londres, Reino Unido</mark> 
 
         description: |
-            Participación en la localización de un producto digital en entorno internacional.
-
-            Primer contacto con proyectos tecnológicos reales, trabajando en equipo y adaptando contenidos a diferentes mercados.
+            Miembro del equipo de acomodadores y barra en el teatro. Recepción y gestión de los asistentes al teatro.
 
       - layout: left
-        title: The London Oratory School
-        link: https://www.london-oratory.org/
-        link_text: london-oratory.org
-        sub_title: Asistente de Lengua Española
-        caption: Octubre 2014 - Mayo 2015</br><mark>Londres, Reino Unido</mark> 
+        title: DO&CO | Museo Británico
+        link: https://www.doco.com/
+        link_text: doco.com
+        sub_title: Catering
+        caption: Octubre 2007 - Mayo 2010</br><mark>Londres, Reino Unido</mark> 
 
         description: |
-            Apoyo a estudiantes en el desarrollo de habilidades de comunicación oral.
+            Preparación de catering para eventos privados en las instalaciones del Museo Británico.
 
-            - Adaptación a distintos perfiles
-            - Comunicación empática
-            - Dinamización de grupos
-
-      - layout: left
-        title: Lady Margaret School
-        link: https://ladymargaret.lbhf.sch.uk/
-        link_text: ladymargaret.lbhf.sch.uk<br/>
-        sub_title: Asistente de Lengua Española
-        caption: Octubre 2014 - Mayo 2015</br><mark>Londres, Reino Unido</mark> 
-
-        description: |
-            Experiencia en formación y acompañamiento educativo en entornos diversos.
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
@@ -206,7 +188,7 @@ content:
       - Capacidad de aprendizaje y adaptación
       - Sensibilidad hacia la accesibilidad, diversidad y cooperación
 
-      Interés en contribuir a iniciativas con impacto social, medioambiental y participación ciudadana.
+      Interés en contribuir al desarrollo y la gestión de salas culturales.
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
